@@ -1,2 +1,5 @@
 mljar-mercury
 pandas
+forallpeople
+math
+handcalcs
