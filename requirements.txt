@@ -1,3 +1,2 @@
 mljar-mercury
-aisc_db
 pandas
