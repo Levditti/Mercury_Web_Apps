@@ -1,5 +1,3 @@
-from sectionproperties.pre.library import steel_sections as steel
-import sectionproperties.pre.geometry as geom
 import pandas as pd
 
 
